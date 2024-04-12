@@ -1,73 +1,28 @@
 {
-  "results": [
-      {
-          "id": 1,
-          "gender": "male",
-          "name": {
-              "title": "Sr",
-              "first": "Diego",
-              "last": "Fernandes"
-          },
-          "location": {
-              "city": "Lisbon",
-              "country": "Portugal"
-          },
-          "timezone": {
-              "offset": "00:00"
-          },
-          "email": "dieegoolimaa@gmail.com",
-          "hiringDate": "2010-03-12",
-          "phone": "026-2815-931",
-          "cell": "065-9175-715",
-          "picture": {
-              "medium": "https://randomuser.me/api/portraits/med/women/76.jpg"
-          }
-      },
-      {
-        "id": 2,
-        "gender": "male",
-        "name": {
-            "title": "Sr",
-            "first": "Celso",
-            "last": "Fernandes"
-        },
-        "location": {
-            "city": "Dont know",
-            "country": "Germany"
-        },
-        "timezone": {
-            "offset": "00:00"
-        },
-        "email": "celsogando@gmail.com",
-        "hiringDate": "2010-03-12",
-        "phone": "026-2815-931",
-        "cell": "065-9175-715",
-        "picture": {
-            "medium": "https://randomuser.me/api/portraits/med/women/76.jpg"
-        }
-    },
+  "employees": [
     {
-      "id": 3,
+      "id": 1,
       "gender": "male",
       "name": {
-          "title": "Sr",
-          "first": "Rui",
-          "last": "Fernandes"
+        "title": "Sr",
+        "first": "Diego",
+        "last": "Fernandes"
       },
       "location": {
-          "city": "Lisbon",
-          "country": "Portugal"
+        "city": "Lisbon",
+        "country": "Portugal"
       },
       "timezone": {
-          "offset": "00:00"
+        "offset": "00:00"
       },
-      "email": "folgado@gmail.com",
+      "email": "dieegoolimaa@gmail.com",
+      "position": "Software Engineer",
       "hiringDate": "2010-03-12",
-      "phone": "026-2815-931",
+      "phone": "351-",
       "cell": "065-9175-715",
       "picture": {
-          "medium": "https://randomuser.me/api/portraits/med/women/76.jpg"
+        "medium": "https://randomuser.me/api/portraits/med/women/76.jpg"
       }
-  }
+    }
   ]
 }
