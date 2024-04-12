@@ -2,6 +2,7 @@
   "employees": [
     {
       "id": 1,
+      "status": "active",
       "name": "Diego Fernandes",
       "gender": "male",
       "phone": "+351 915 536 144",
