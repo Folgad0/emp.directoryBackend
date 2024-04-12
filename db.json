@@ -2,11 +2,7 @@
   "employees": [
     {
       "id": 1,
-      "name": {
-        "title": "Sr",
-        "first": "Diego",
-        "last": "Fernandes"
-      },
+      "name": "Diego Fernandes",
       "gender": "male",
       "phone": "351-",
       "cell": "065-9175-715",
