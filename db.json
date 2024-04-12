@@ -2,12 +2,15 @@
   "employees": [
     {
       "id": 1,
-      "gender": "male",
       "name": {
         "title": "Sr",
         "first": "Diego",
         "last": "Fernandes"
       },
+      "gender": "male",
+      "phone": "351-",
+      "cell": "065-9175-715",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocJEhxOGgIr5_s0o1RIobRFqVE0mKLajPXksD7bbPvIWkZf2dipK=s519-c-no",
       "location": {
         "city": "Lisbon",
         "country": "Portugal"
@@ -16,13 +19,10 @@
         "offset": "00:00"
       },
       "email": "dieegoolimaa@gmail.com",
+      "department": "Engineering",
       "position": "Software Engineer",
       "hiringDate": "2010-03-12",
-      "phone": "351-",
-      "cell": "065-9175-715",
-      "picture": {
-        "medium": "https://randomuser.me/api/portraits/med/women/76.jpg"
-      }
+      "modality": "Remote"
     }
   ]
 }
