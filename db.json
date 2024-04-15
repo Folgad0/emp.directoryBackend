@@ -19,6 +19,38 @@
       "position": "Software Engineer",
       "hiringDate": "2010-03-12",
       "modality": "Remote"
+    },
+    {
+      "name": "Rui",
+      "status": "Active",
+      "gender": "male",
+      "phone": "",
+      "email": "rui.folgado@hotmail.com",
+      "location": {
+        "city": "Lisboa",
+        "country": "Portugal"
+      },
+      "department": "cool",
+      "position": "boss",
+      "hiringDate": "",
+      "modality": "dont know",
+      "id": 2
+    },
+    {
+      "name": "celso",
+      "status": "Active",
+      "gender": "male",
+      "phone": "",
+      "email": "celsomail@mail.com",
+      "location": {
+        "city": "namibia",
+        "country": "Germany"
+      },
+      "department": "cooler",
+      "position": "bigger boss",
+      "hiringDate": "",
+      "modality": "",
+      "id": 3
     }
   ]
 }
