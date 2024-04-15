@@ -17,27 +17,12 @@
       "email": "dieegoolimaa@gmail.com",
       "department": "Engineering",
       "position": "Software Engineer",
+      "income": "30.0000000",
       "hiringDate": "2010-03-12",
       "modality": "Remote"
     },
     {
-      "name": "Rui",
-      "status": "Active",
-      "gender": "male",
-      "phone": "",
-      "email": "rui.folgado@hotmail.com",
-      "location": {
-        "city": "Lisboa",
-        "country": "Portugal"
-      },
-      "department": "cool",
-      "position": "boss",
-      "hiringDate": "",
-      "modality": "dont know",
-      "id": 2
-    },
-    {
-      "name": "ceso",
+      "name": "celso",
       "status": "Active",
       "gender": "male",
       "phone": "",
@@ -50,7 +35,8 @@
       "position": "bigger boss",
       "hiringDate": "",
       "modality": "",
-      "id": 3
+      "id": 3,
+      "income": "9000000000"
     }
   ]
 }
