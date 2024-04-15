@@ -27,7 +27,7 @@
       "name": "Isabella Rodriguez",
       "gender": "female",
       "phone": "+44 20 7946 0400",
-      "picture": "https://placeimg.com/640/480/people", // Placeholder image
+      "picture": "https://randomuser.me/api/portraits/women/2.jpg",
       "location": {
         "city": "London",
         "country": "United Kingdom"
@@ -48,7 +48,7 @@
       "name": "Omar Khan",
       "gender": "male",
       "phone": "+61 2 9332 8888",
-      "picture": "https://robohash.org/omar.khan?size=400x400", // Random avatar
+      "picture": "https://randomuser.me/api/portraits/men/3.jpg",
       "location": {
         "city": "Sydney",
         "country": "Australia"
@@ -69,12 +69,12 @@
       "name": "Li Chen",
       "gender": "female",
       "phone": "+86 21 6134 5678",
-      "picture": "https://thispersondoesnotexist.com/image", // Random person image
+      "picture": "https://randomuser.me/api/portraits/women/4.jpg",
       "location": {
         "city": "Shanghai",
         "country": "China"
       },
-      " timezone": {
+      "timezone": {
         "offset": "+08:00"
       },
       "email": "lichen@company.com",
@@ -90,7 +90,7 @@
       "name": "David Miller",
       "gender": "male",
       "phone": "+1 415 555 2671",
-      "picture": "https://www.gravatar.com/avatar/1", // Gravatar default
+      "picture": "https://randomuser.me/api/portraits/men/5.jpg",
       "location": {
         "city": "San Francisco",
         "country": "United States"
