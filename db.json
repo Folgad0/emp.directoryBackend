@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "status": "Terminated",
+      "status": "Active",
       "name": "Isabella Rodriguez",
       "gender": "female",
       "phone": "+44 20 7946 0400",
@@ -104,6 +104,32 @@
       "income": "60.000",
       "hiringDate": "2015-11-21",
       "modality": "Hybrid"
+    }
+  ],
+  "careers": [
+    {
+      "id": 1,
+      "jobTitle": "Account Management Director - Mobile",
+      "company": "Epic Games",
+      "department": "Business Development & Sales",
+      "location": "Portugal",
+      "description": "As the Account Management Director - Mobile at Epic Games, you will be responsible for leading and managing a high-performing team of account managers focused on driving mobile game sales across various regions. You will develop and execute strategic account plans to build strong and lasting relationships with key partners, ensuring they achieve their business objectives while maximizing revenue growth for Epic Games' mobile portfolio. In this leadership role, you will provide mentorship and coaching to your team, fostering a collaborative and results-oriented environment. You will also be responsible for identifying and developing new business opportunities within the mobile games industry, staying ahead of market trends, and crafting compelling proposals that win over potential partners."
+    },
+    {
+      "id": 2,
+      "jobTitle": "Software Engineer",
+      "company": "Ironhack",
+      "department": "Engineering",
+      "location": "Brazil",
+      "description": "Are you a passionate and skilled Software Engineer looking to contribute to the growth of a dynamic EdTech company? Ironhack is seeking a talented individual to join our Engineering team in Brazil. In this role, you will play a key role in developing and maintaining high-quality, scalable software applications that support our innovative coding bootcamps and online learning platforms. You will collaborate closely with cross-functional teams, including designers, product managers, and educators, to design, implement, and test software solutions that enhance the learning experience for our students around the globe. Utilizing your expertise in modern technologies, you will help us build robust and user-friendly applications that contribute to Ironhack's mission of empowering individuals to launch successful careers in tech."
+    },
+    {
+      "id": 3,
+      "jobTitle": "Content Specialist",
+      "company": "Your Company Name",
+      "department": "Marketing",
+      "location": "Multiple Locations",
+      "description": "We are searching for a creative and results-oriented Content Specialist to join our dynamic Marketing team! In this role, you will be responsible for crafting engaging and informative content across various platforms, including our website, social media channels, blog, and email marketing campaigns. You will play a crucial role in developing and executing our content strategy to attract, engage, and retain a target audience for our products and services. Your responsibilities will encompass researching and identifying relevant topics, writing compelling and SEO-optimized content, managing the content calendar, and collaborating with designers and other marketing team members to ensure a consistent brand voice and message across all content channels. We are looking for someone with a passion for storytelling and a strong understanding of content marketing best practices. If you thrive in a fast-paced environment and enjoy creating content that makes a difference, we encourage you to apply!"
     }
   ]
 }
