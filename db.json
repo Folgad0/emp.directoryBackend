@@ -104,6 +104,96 @@
       "income": "60.000",
       "hiringDate": "2015-11-21",
       "modality": "Hybrid"
+    },
+    {
+      "id": 6,
+      "status": "Active",
+      "name": "Maria Silva",
+      "gender": "female",
+      "phone": "+351 912 345 678",
+      "picture": "https://randomuser.me/api/portraits/women/6.jpg",
+      "location": {
+        "city": "Lisbon",
+        "country": "Portugal"
+      },
+      "email": "maria.silva@example.com",
+      "department": "Customer Support",
+      "position": "Customer Support Representative",
+      "income": "28,000",
+      "hiringDate": "2023-05-10",
+      "modality": "Remote"
+    },
+    {
+      "id": 7,
+      "status": "Active",
+      "name": "John Smith",
+      "gender": "male",
+      "phone": "+44 20 1234 5678",
+      "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+      "location": {
+        "city": "London",
+        "country": "United Kingdom"
+      },
+      "email": "john.smith@example.com",
+      "department": "Sales",
+      "position": "Sales Executive",
+      "income": "45,000",
+      "hiringDate": "2022-08-20",
+      "modality": "Hybrid"
+    },
+    {
+      "id": 8,
+      "status": "Active",
+      "name": "Sophie Chen",
+      "gender": "female",
+      "phone": "+86 21 9876 5432",
+      "picture": "https://randomuser.me/api/portraits/women/7.jpg",
+      "location": {
+        "city": "Shanghai",
+        "country": "China"
+      },
+      "email": "sophie.chen@example.com",
+      "department": "Finance",
+      "position": "Financial Analyst",
+      "income": "50,000",
+      "hiringDate": "2021-11-15",
+      "modality": "On-site"
+    },
+    {
+      "id": 9,
+      "status": "Active",
+      "name": "Michael Brown",
+      "gender": "male",
+      "phone": "+1 415 555 1234",
+      "picture": "https://randomuser.me/api/portraits/men/7.jpg",
+      "location": {
+        "city": "San Francisco",
+        "country": "United States"
+      },
+      "email": "michael.brown@example.com",
+      "department": "Marketing",
+      "position": "Marketing Manager",
+      "income": "55,000",
+      "hiringDate": "2020-07-30",
+      "modality": "Hybrid"
+    },
+    {
+      "id": 10,
+      "status": "Active",
+      "name": "Lara Oliveira",
+      "gender": "female",
+      "phone": "+55 11 98765 4321",
+      "picture": "https://randomuser.me/api/portraits/women/8.jpg",
+      "location": {
+        "city": "São Paulo",
+        "country": "Brazil"
+      },
+      "email": "lara.oliveira@example.com",
+      "department": "Human Resources",
+      "position": "HR Specialist",
+      "income": "38,000",
+      "hiringDate": "2023-02-28",
+      "modality": "Remote"
     }
   ],
   "careers": [
